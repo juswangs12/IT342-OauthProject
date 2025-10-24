@@ -76,4 +76,3 @@ public class profileController {
         return Long.valueOf(String.valueOf(idObj));
     }
 }
-
